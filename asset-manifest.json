@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a0a810aa.css",
+    "main.js": "/static/js/main.0b765c1c.js",
+    "static/media/work3.jpg": "/static/media/work3.5a32a85c753a83da273d.jpg",
+    "static/media/rax.jpg": "/static/media/rax.4f345bbaac692987a606.jpg",
+    "static/media/work1.jpg": "/static/media/work1.31baac878b16c3e99a59.jpg",
+    "static/media/Rakshini_Resume_2024.pdf": "/static/media/Rakshini_Resume_2024.c2964c0c7f933d9f3d64.pdf",
+    "static/media/work2.jpg": "/static/media/work2.f2b843efafaa00972270.jpg",
+    "index.html": "/index.html",
+    "main.a0a810aa.css.map": "/static/css/main.a0a810aa.css.map",
+    "main.0b765c1c.js.map": "/static/js/main.0b765c1c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0a810aa.css",
+    "static/js/main.0b765c1c.js"
+  ]
+}
