@@ -14,11 +14,11 @@ const About = () => {
 
             <div className="about_data">
 
-                <p className="about_description">Hello! &nbsp; I’m a Full Stack Developer who turns ideas into dynamic web applications with a blend of creativity and technical know-how. With a toolkit that includes React.js, JavaScript, Java, Spring Boot, and SQL, I build seamless, user-friendly experiences from the ground up.
+                <p className="about_description">Hello! &nbsp;  I’m a Full Stack Developer passionate about transforming ideas into interactive web applications through creativity and precision. Combining innovation with technical expertise, I craft intuitive, seamless experiences from start to finish. 
 
-<br></br>Whether it's crafting engaging dashboards or optimizing data workflows, I approach each project with enthusiasm and a keen eye for detail. I thrive on tackling new challenges and continuously expanding my skill set to deliver innovative solutions.
+<br></br>Whether building engaging interfaces or optimizing complex systems, I approach each challenge with excitement and attention to detail. I constantly seek new challenges, evolving my skill set to create cutting-edge solutions. 
 
-<br></br>Dive into my portfolio to see my journey and let’s connect to explore how we can create something amazing together!
+<br></br>Explore my portfolio to discover my journey and let’s connect to collaborate on something extraordinary!
                 </p>
 
                 <a download="" href={CV} className="button button--flex">Download CV
