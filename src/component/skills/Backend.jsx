@@ -41,7 +41,7 @@ const Backend = () => {
 
                     <div>
                         <h3 className="skills_name">Spring Boot</h3>
-                        <span className="skills_level">Basic</span>
+                        <span className="skills_level">Intermediate</span>
                     </div>
                 </div>
 
